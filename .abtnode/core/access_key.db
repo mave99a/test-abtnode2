@@ -1,0 +1,2 @@
+{"accessKeyId":"z1SYRhr9dbg8SnEmY2UyQwYUMbZNLRWADN8","accessKeyPublic":"0xe639d6d9fad121bcbc08cf2b9c956a161f34314f4b34884a83e216ef1100884d","remark":"deploy key","_id":"ZEGMoBtXKNcCcFfA","createdAt":{"$$date":1599817861664},"updatedAt":{"$$date":1602486856279},"lastUsedAt":"2020-09-16T00:59:17.596Z"}
+{"$$indexCreated":{"fieldName":"accessKeyId","unique":true,"sparse":false}}

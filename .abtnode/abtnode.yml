@@ -1,0 +1,26 @@
+node:
+  name: 'ABT Node [mao]'
+  description: ABT Node on 10.0.1.15
+  version: 1.0.5
+  sk: >-
+    0xaa34cbcc8daeada71c4995eff0998a3ebacea68ff0176a01f9618a577f22e3970a9f7bc0b88d6c04d3512a57e2772bd564b737461e4935da90ebe4e0b12bc344
+  pk: '0x0a9f7bc0b88d6c04d3512a57e2772bd564b737461e4935da90ebe4e0b12bc344'
+  did: zNKqEysuzMge1GvR1j3qSn2qKYECcj5kjwQb
+  domain: ''
+  ip: 10.0.1.15
+  port: 8089
+  https: false
+  secret: '0x891334909c3e78695eeb269c9a39779b81829b0e88996340dc97d8ab66715495'
+  owner:
+    pk: ''
+    did: ''
+  routing:
+    provider: nginx
+    adminPath: /admin/
+    headers:
+      X-Powered-By: '"ABT Node/1.0.5"'
+blocklet:
+  registry: 'https://blocklet.arcblock.io'
+  owner:
+    pk: ''
+    did: ''
