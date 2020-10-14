@@ -1,5 +1,6 @@
 # ABT Node Configuration
 
+This is a complete ABT Node Configuration, you can launch ABT Node with this configuration, ABT Node will automatically initilize and install all depencency blocklets and start. 
 
 ## Open with Gitpod
 
